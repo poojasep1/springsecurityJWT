@@ -39,6 +39,3 @@ public class WatchmanConfig extends WebSecurityConfigurerAdapter{
 	}
 
 }
-
-	}
-
